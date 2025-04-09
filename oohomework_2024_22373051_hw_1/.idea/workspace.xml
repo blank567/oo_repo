@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d04ff88-94a4-462c-823a-4e41f71b1258" name="Default Changelist" comment="hw_1_2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2d4orURioPFZtwgutKgcVs772lU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d04ff88-94a4-462c-823a-4e41f71b1258" name="Default Changelist" comment="" />
+      <created>1709276909752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709276909752</updated>
+      <workItem from="1709276911074" duration="1138000" />
+      <workItem from="1709280203589" duration="1425000" />
+      <workItem from="1709357832074" duration="755000" />
+      <workItem from="1709634822056" duration="1130000" />
+      <workItem from="1709641282070" duration="605000" />
+      <workItem from="1726897123498" duration="4320000" />
+      <workItem from="1728137009170" duration="7000" />
+      <workItem from="1728143052991" duration="846000" />
+      <workItem from="1728202503113" duration="1196000" />
+    </task>
+    <task id="LOCAL-00001" summary="hw_1">
+      <created>1709277019345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709277019346</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw_1">
+      <created>1709279376230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709279376230</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw_1">
+      <created>1709280213855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709280213855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw_1">
+      <created>1709280957398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709280957398</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hw_1">
+      <created>1709281150865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709281150865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hw_1">
+      <created>1709285166959</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709285166959</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hw_1_1">
+      <created>1709634909623</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709634909623</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hw_1_2">
+      <created>1709635070973</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709635070973</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hw_1_2">
+      <created>1709635292040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709635292040</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw_1" />
+    <MESSAGE value="hw_1_1" />
+    <MESSAGE value="hw_1_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_1_2" />
+  </component>
+</project>

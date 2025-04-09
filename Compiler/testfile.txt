@@ -1,0 +1,21 @@
+int a[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+
+void foo(int a[])
+{
+    int b = a[2];
+    printf("b = %d\n", b);
+    b = b + 1;
+    printf("b = %d\n", b);
+}
+
+int main()
+{
+int c[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+int d = c[2] + 1;
+    int b = a[a[2]];
+    printf("b = %d\n", b);
+    b = b + 1;
+    printf("b = %d\n", b);
+    return 0;
+}
